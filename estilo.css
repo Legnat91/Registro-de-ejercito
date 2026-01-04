@@ -2,7 +2,7 @@
     
     background: rgb(7, 80, 7);
     font-family: 'Times New Roman', Times, serif;
-    background-image:url("./fondo.webp")
+    background-image:url("./fondo.webp");
 }
 body{
     margin:0;
